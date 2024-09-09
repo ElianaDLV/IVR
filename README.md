@@ -88,4 +88,18 @@ paremetría del sistema.
 Además, existirá un usuario de consulta de reportes para generar los reportes que permiten el análisis de los datos
 obtenidos de las llamadas.
 
-#
+# Diagrama de secuencia
+![IVR diagrama secuencia](https://github.com/user-attachments/assets/e8901182-85b5-42de-99d6-1ebb95a249f8)
+
+
+# Diagrama de clase de secuencia
+
+# Requerimientos no funcionales 
+
+# Vistas arquitectónicas
+
+## Vista de la funcionalidad
+
+## Vista de diseño
+
+## Vista de despliegue
