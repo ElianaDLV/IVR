@@ -91,8 +91,9 @@ obtenidos de las llamadas.
 # Diagrama de secuencia
 ![IVR diagrama secuencia](https://github.com/user-attachments/assets/e8901182-85b5-42de-99d6-1ebb95a249f8)
 
-
 # Diagrama de clase de secuencia
+![Diagrama de clase de secuencia](https://github.com/user-attachments/assets/26a451a6-7932-4b31-89f3-426758594d14)
+
 
 # Requerimientos no funcionales 
 
